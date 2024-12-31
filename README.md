@@ -14,7 +14,7 @@
 ### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
 > Split between two files due to the nature of the orignial assignment.   
 > The structure of either/both program could be extended to examine PCAPs for additional security events.   
->> Between both programs, the following events/interests are searched for:   
+> [ JsonPCAP1.py ](https://github.com/plmcdowe/School/blob/68bad203da6eec271042d636ce8111531ddbe056/Purdue-CS/JsonPCAP-Parser/JsonPCAP1.py) parses for:   
 >> \> *Successful* HTTP sessions   
 >> \> Directory Traversal evidence   
 >> \> Failed login attempts   
@@ -24,6 +24,7 @@
 >> \> TCP ISN deviation   
 >> \> Traceroute evidence   
 >> \> XSS evidence   
+> [ JsonPCAP.py ](https://github.com/plmcdowe/School/blob/68bad203da6eec271042d636ce8111531ddbe056/Purdue-CS/JsonPCAP-Parser/JsonPCAP1.py) parses for:   
 >> \> Client MAC & IP addresses   
 >> \> FTP session details   
 >> \> Facebook URIs & cookies   
