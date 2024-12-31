@@ -21,9 +21,9 @@
 >> The Arduino Uno + Adafruit Motor Shield drove:   
 >> \> Six, 5v 28BYJ-48 stepper motors   
 >> \> One, 12v vacuum pump   
->> \> One HC-SR04 sonar sensor   
->> \> One MMA8452 accelerometer   
->> \> Triggered a Nikon DLSR through a hacked-up Nikon MC-DC2 Remote Release Cord
+>> \> One, HC-SR04 sonar sensor   
+>> \> One, MMA8452 accelerometer   
+>> \> Triggered a Nikon DLSR through a hacked-up MC-DC2 Remote Release Cord   
 >>    
-> [ Robot_GUI.py ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot/Robot_GUI.py) provides control through a Tkinter GUI.   
+> [ Robot_GUI.py ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot/Robot_GUI.py) provides control over serial through a Tkinter GUI.   
 > [ TkinterRobot.ino ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot/TkinterRobot.ino) is the Arduino program to drive the hardware.   
