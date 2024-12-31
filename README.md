@@ -19,7 +19,7 @@ Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data
 > [ 2-README-IOT.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/2-README-IOT.md) documents extending this project to run between Arduino Giga & Raspberry Pi5.  
 >> <img src="https://github.com/user-attachments/assets/c8bcb7e7-0ebd-4a86-984d-a77521946851" alt="Alt Text" width="400" height="400">  
 >
-### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
+### [ json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
 > Split between two files due to the nature of the orignial assignment.   
 > The structure of either/both program could be extended to examine PCAPs for additional security events.
 > 
