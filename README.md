@@ -1,14 +1,17 @@
-## IU Informatics, BS.
+# IU Informatics, BS.
 ### [ Capstone Project: "ParkIU" ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone)
-> My contributions to a project which created an iOS application to track availability of on campus parking.   
-> Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy.   
+> My contributions to a project which created an iOS application to track availability of on campus parking.
+> 
+> Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy:
+>> <img src="https://github.com/user-attachments/assets/3c49a53f-36b2-4cc7-a705-406772ce0f0c" alt="Alt Text" width="265" height="200">
+> 
 > Changes to occupancy are published by json web-hooks to a PHP script which updates a SQL datatbase.   
 >> [ ParticleA.ino ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone/ParticleA.ino) decrements on vehicle exit and publishes the event to ParticleB.   
 >> [ ParticleB.ino ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone/ParticleB.ino) increments on vehicle entrance and publishes all events to the Particle cloud.   
 >> [ count.php ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone/count.php) recieves the json formatted web-hook from the Particle cloud and updates the SQL database.
->> 
+>>   
 ---
-## Purdue CS, MS.
+# Purdue CS, MS.
 ### [ SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
 > Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
 ### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
@@ -32,7 +35,7 @@
 >> \> Facebook URIs & cookies   
 >
 ---
-## Personal projects
+# Personal projects
 ### [ Picture Robot ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot)  
 > An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.   
 >> The Arduino Uno + Adafruit Motor Shield drives:   
