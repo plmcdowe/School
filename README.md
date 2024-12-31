@@ -3,7 +3,7 @@
 My contributions to a project which created an iOS application to track availability of on campus parking.
 > 
 > Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy:
->> <img src="https://github.com/user-attachments/assets/3c49a53f-36b2-4cc7-a705-406772ce0f0c" alt="Alt Text" width="265" height="200">
+>> <img src="https://github.com/user-attachments/assets/3c49a53f-36b2-4cc7-a705-406772ce0f0c" alt="Alt Text" width="400" height="354">
 > 
 > Changes to occupancy are published by json web-hooks to a PHP script which updates a SQL datatbase.   
 >> [ ParticleA.ino ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone/ParticleA.ino) decrements on vehicle exit and publishes the event to ParticleB.   
@@ -14,9 +14,11 @@ My contributions to a project which created an iOS application to track availabi
 # Purdue CS, MS.
 ### [ SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
 Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
-> [ 1-README-MAIN.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/1-README-MAIN.md) provides project details and instructions to run.   
+> [ 1-README-MAIN.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/1-README-MAIN.md) provides detailed instructions to setup & run.
+>>  <img src="https://github.com/user-attachments/assets/f2c284a1-eebf-4575-995e-c66e101b40f2" alt="Alt Text" width="517" height="200">  
 > [ 2-README-IOT.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/2-README-IOT.md) documents extending this project to run between Arduino Giga & Raspberry Pi5.  
-> 
+>> <img src="https://github.com/user-attachments/assets/c8bcb7e7-0ebd-4a86-984d-a77521946851" alt="Alt Text" width="400" height="400">  
+>
 ### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
 > Split between two files due to the nature of the orignial assignment.   
 > The structure of either/both program could be extended to examine PCAPs for additional security events.
