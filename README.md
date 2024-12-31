@@ -1,6 +1,6 @@
 # IU Informatics, BS.
 ### [ Capstone Project: "ParkIU" ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone)
-> My contributions to a project which created an iOS application to track availability of on campus parking.
+My contributions to a project which created an iOS application to track availability of on campus parking.
 > 
 > Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy:
 >> <img src="https://github.com/user-attachments/assets/3c49a53f-36b2-4cc7-a705-406772ce0f0c" alt="Alt Text" width="265" height="200">
@@ -13,7 +13,10 @@
 ---
 # Purdue CS, MS.
 ### [ SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
-> Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
+Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
+> [ 1-README-MAIN.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/1-README-MAIN.md) provides project details and instructions to run.   
+> [ 2-README-IOT.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/2-README-IOT.md) documents extending this project to run between Arduino Giga & Raspberry Pi5.  
+> 
 ### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
 > Split between two files due to the nature of the orignial assignment.   
 > The structure of either/both program could be extended to examine PCAPs for additional security events.
