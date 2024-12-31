@@ -12,7 +12,21 @@
 ### [ SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
 > Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
 ### [ Json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
-> Description
+> Split between two files due to the nature of the orignial assignment.   
+> The structure of either/both program could be extended to examine PCAPs for additional security events.   
+>> Between both programs, the following events/interests are searched for:   
+>> \> *Successful* HTTP sessions   
+>> \> Directory Traversal evidence   
+>> \> Failed login attempts   
+>> \> Clear text credentials   
+>> \> Apache webserver versions   
+>> \> DNS source port randomization   
+>> \> TCP ISN deviation   
+>> \> Traceroute evidence   
+>> \> XSS evidence   
+>> \> Client MAC & IP addresses   
+>> \> FTP session details   
+>> \> Facebook URIs & cookies   
 >
 ---
 ## Personal projects
