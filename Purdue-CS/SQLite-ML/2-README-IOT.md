@@ -11,6 +11,7 @@ but were unable to get the Arduino to run the required SSL libraries.
 ## **Environment(s):**
 ### **-- Raspberry Pi 3b+ *and*  Pi 5:**  
 > *❗*when running **sentiment analysis** with Transformers, the Pi 3b+ ran out of memory and the process was killed.
+> This was not a problem for the Pi 5, which ran everything! 
 > 
 > **+ Ubuntu Server 24.10 "oracular"**  
 >> 
