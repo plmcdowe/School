@@ -16,7 +16,7 @@ but were unable to get the Arduino to run the required SSL libraries.
 > **+ Ubuntu Server 24.10 "oracular"**  
 >> 
 >>
->> **\> Python3.12.7**
+>> **--- Python3.12.7**
 >>> **^ python3-venv**  
 >>> **^ joblib**  
 >>> **^ numpy**  
@@ -26,7 +26,7 @@ but were unable to get the Arduino to run the required SSL libraries.
 >>> **^ scikit-learn**  
 >>> **^ tensorflow**
 >>
->> **\> Apache2**  
+>> **--- Apache2**  
 >>> **^ PHP**  
 >>> **^ SQLite**  
 >>
@@ -42,16 +42,18 @@ but were unable to get the Arduino to run the required SSL libraries.
 > <img src="https://github.com/user-attachments/assets/f1b67602-d4f7-4a10-862d-e35fc5133e2f" alt="Alt Text" width="346" height="600">
 > 
 ## In this repository:
-> ### **[ -- sqlite3 ]()**  
+> ### [ -- sqlite3 ](https://github.com/plmcdowe/School/blob/527a85ae13aecc003411d6c7a030105852acb30f/Purdue-CS/SQLite-ML/SQLite-ML-Files/sqlite3)  
 >> **Built from source: 3460100, ready to run after a `chmod +x`**
 >  
-> ### **[ -- ml_extension.c ]()**  
+> ### [ -- ml_extension.c ](https://github.com/plmcdowe/School/blob/527a85ae13aecc003411d6c7a030105852acb30f/Purdue-CS/SQLite-ML/SQLite-ML-Files/ml_extension.c)  
 >> [ see the ***main* README.md** for full description ]()  
 >  
-> ### **[ -- ml_module.py ]()**
+> ### [ -- ml_module.py ](https://github.com/plmcdowe/School/blob/527a85ae13aecc003411d6c7a030105852acb30f/Purdue-CS/SQLite-ML/SQLite-ML-Files/ml_module.py)   
 >> [ see the ***main* README.md** for full description ]()  
-> ---  
-> ### **[ -- 541ML.ino ]()**  
+>
+> ### [ -- 541ML.ino ](https://github.com/plmcdowe/School/blob/527a85ae13aecc003411d6c7a030105852acb30f/Purdue-CS/SQLite-ML/IOT-Arduino-Pi5/541ML.ino)
+>> Arduino C program to collect object and ambient temperatures,   
+>> then send them by HTTP with onboard Wifi module formatted as JSON to the Pi PHP script.   
 >> ```C++
 >> #include <WiFi.h>
 >> #include <Adafruit_MLX90614.h>
