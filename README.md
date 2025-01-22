@@ -1,5 +1,5 @@
 # IU Informatics, BS.
-### [ Capstone Project: "ParkIU" ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone)
+## [ \* Capstone Project: "ParkIU" ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/IU-Informatics-Capstone)
 My contributions to a project which created an iOS application to track availability of on campus parking.
 > 
 > Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy:
@@ -12,14 +12,14 @@ My contributions to a project which created an iOS application to track availabi
 >>   
 ---
 # Purdue CS, MS.
-### [ SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
+## [ \* SQLite-ML ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML)
 Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data directly from SQLite CLI.
 > [ 1-README-MAIN.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/1-README-MAIN.md) provides detailed instructions to setup & run.
 >>  <img src="https://github.com/user-attachments/assets/f2c284a1-eebf-4575-995e-c66e101b40f2" alt="Alt Text" width="517" height="200">  
 > [ 2-README-IOT.md ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/SQLite-ML/2-README-IOT.md) documents extending this project to run between Arduino Giga & Raspberry Pi5.  
 >> <img src="https://github.com/user-attachments/assets/c8bcb7e7-0ebd-4a86-984d-a77521946851" alt="Alt Text" width="400" height="400">  
 >
-### [ json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
+## [ \* json PCAP parsing ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/Purdue-CS/JsonPCAP-Parser)
 > Split between two files due to the nature of the orignial assignment.   
 > The structure of either/both program could be extended to examine PCAPs for additional security events.
 > 
@@ -41,7 +41,7 @@ Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data
 >
 ---
 # Personal projects
-### [ Picture Robot ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot)  
+## [ \* Picture Robot ](https://github.com/plmcdowe/School/tree/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot)  
 > An Arduino robot controlled through Python to copy physical photographs with a DSLR camera.   
 >> The Arduino Uno + Adafruit Motor Shield drives:   
 >> \> Six, 5v 28BYJ-48 stepper motors   
