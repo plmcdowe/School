@@ -51,3 +51,8 @@ Extends SQLite syntax to allow ML outlier-detection & sentiment analysis of data
 >>    
 > [ Robot_GUI.py ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot/Robot_GUI.py) provides control over serial through a Tkinter GUI.   
 > [ TkinterRobot.ino ](https://github.com/plmcdowe/School/blob/1228ab2c2261ae7d5b3b14264a321303cdc0361b/PersonalProjects/PictureRobot/TkinterRobot.ino) is the Arduino program to drive the hardware.   
+
+Demo of the python GUI interacting over serial with the Arduino to turn on a blue LED:   
+
+https://github.com/user-attachments/assets/d8e87a40-d99c-4695-b16d-e683b1de0d4c
+
